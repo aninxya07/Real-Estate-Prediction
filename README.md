@@ -3,7 +3,7 @@
 <img width="958" alt="image" src="./demo.png">
 
 <p align="center">
-  <a href="https://real-estate-prediction.streamlit.app/">Demo app</a>
+  <a href="https://real-estate-prediction-wnmfgo47vfex77zek7sduz.streamlit.app/">Demo app</a>
 </p>
 
 This repository contains a machine learning project that predicts house prices based on features like house age, distance to the nearest MRT station, number of convenience stores, latitude, and longitude. The model is trained using Random Forest Regressor to analyze these factors and estimate the price per unit area.
