@@ -27,16 +27,6 @@ The dataset includes features such as:
 - **X4 Number of Convenience Stores**
 - **X5 Latitude**
 - **X6 Longitude**
-- **Job Satisfaction**
-- **Sleep Duration**
-- **Suicidal Thoughts History**
-- **Work/Study Hours**
-- **Financial Stress**
-- **Family History of Mental Illness**
-- **City**
-- **Profession**
-- **Dietary Habits**
-- **Degree**
 
 The target variable is `Y House Price of Unit Area`
 
