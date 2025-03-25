@@ -43,7 +43,7 @@ def main():
 
     col1, col2 = st.columns(2)
     with col1:
-        X2_house_age = st.number_input("🧱 House Age (Years)", min_value=0.0, value=10.0)
+        X2_house_age = st.number_input("🧱 House Age (Years)", min_value=0, value=10)
         X3_distance_to_MRT = st.number_input("🚇 Distance to Nearest MRT (m)", min_value=0.0, value=500.0)
     
     with col2:
